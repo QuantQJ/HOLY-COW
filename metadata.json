@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Riemann Explorer",
+  "description": "An interactive web application that explores the Riemann Hypothesis through the lens of quantum mechanics, using AI to simulate the quantum states corresponding to the non-trivial zeros of the Riemann Zeta function.",
+  "requestFramePermissions": []
+}
